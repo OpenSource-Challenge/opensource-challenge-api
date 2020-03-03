@@ -48,7 +48,7 @@ defmodule OpensourceChallenge.Mixfile do
       {:ja_serializer, "~> 0.15.0"},
       {:ja_resource, "~> 0.3.0"},
       {:bcrypt_elixir, "~> 2.0"},
-      {:guardian, "~> 1.2.1"},
+      {:guardian, "~> 2.1.1"},
       {:canada, "~> 2.0.0", override: true},
       {:canary, "~> 1.1.0"},
       {:gettext, "~> 0.11"},
