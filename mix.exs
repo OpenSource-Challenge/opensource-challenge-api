@@ -45,7 +45,7 @@ defmodule OpensourceChallenge.Mixfile do
       {:phoenix_ecto, "~> 3.3"},
       {:jason, "~> 1.1"},
       {:postgrex, "~> 0.13.5"},
-      {:ja_serializer, "~> 0.15.0"},
+      {:ja_serializer, "~> 0.16.0"},
       {:ja_resource, "~> 0.3.0"},
       {:bcrypt_elixir, "~> 2.0"},
       {:guardian, "~> 1.2.1"},
