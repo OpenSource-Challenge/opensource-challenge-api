@@ -53,7 +53,7 @@ defmodule OpensourceChallenge.Mixfile do
       {:canary, "~> 1.1.0"},
       {:gettext, "~> 0.11"},
       {:plug_cowboy, "~> 2.0"},
-      {:oauth2, "~> 1.0"},
+      {:oauth2, "~> 2.0"},
       {:cors_plug, "~> 2.0.0"},
       {:coverex, "~> 1.5.0", only: :test}
     ]
